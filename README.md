@@ -50,4 +50,13 @@ TVtest利用されない方は手順（２）から
 ### ～番外編～
 
 Aviutl２のLayerごとに動画素材を載せて保存することや<br>
-フィルタオブジェクトを載せて保存することも可能です。
+フィルタオブジェクトを載せて保存することも可能です。<br><br>
+
+動画の重ねた状態でのキャプチャー<br>
+<img width="320" height="180" alt="image_029" src="https://github.com/user-attachments/assets/3d54d421-49e9-44d8-862e-bcfb8c897f4a" />
+
+ぼかし効果　キャプチャー<br>
+<img width="320" height="180" alt="image_027" src="https://github.com/user-attachments/assets/d4822472-8f85-4567-b802-bebee1c154b7" />
+
+
+
