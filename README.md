@@ -54,10 +54,10 @@ Aviutl２のLayerごとに動画素材を載せて保存することや<br>
 フィルタオブジェクトを載せて保存することも可能です。<br><br>
 
 動画を重ねた状態でのキャプチャー<br>
-<img width="320" height="180" alt="まねきケチャ" src="https://github.com/user-attachments/assets/574a6505-0de6-4622-9820-a27b44f5190a" />
+<img width="320" height="180" title="まねきケチャ" src="https://github.com/user-attachments/assets/574a6505-0de6-4622-9820-a27b44f5190a" />
 
 ぼかし効果　キャプチャー<br>
-<img width="320" height="180" alt="image_027" src="https://github.com/user-attachments/assets/d4822472-8f85-4567-b802-bebee1c154b7" />
+<img width="320" height="180" title="国民的アニメ" src="https://github.com/user-attachments/assets/d4822472-8f85-4567-b802-bebee1c154b7" />
 
 
 
