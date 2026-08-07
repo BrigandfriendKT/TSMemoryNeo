@@ -9,7 +9,7 @@ DTV界隈の方々、関係者様のご支援があったからだと感じて�
 この場をお借りしあらため感謝申し上げます。ありがとうございます。
 
 ## TSMemoryからの変更点
-　・Aviutl２の対応（従来のAviutlは非対応）<br>
+　・Aviutl２の対応（仕様上、従来のAviutlでは非対応）<br>
 　・スカパープレミアム、４K/８K放送のキャプチャー<br>
 　・解像度のダウンコンバート機能追加<br>
 　・UI周りの作り直し<br>
@@ -35,7 +35,8 @@ TVtest利用されない方は手順（２）から
 
 ## 使用方法（TVtestの場合）
 
-（１）tvtestを起動後プラグインを有効、tvtest設定からキー割り当てにて "TSMemoryNeo:実行"に任意のキーを付与しOKを押す。<br>
+（１）tvtestを起動後プラグインを有効、tvtest設定からキー割り当て<br> 
+　　　"TSMemoryNeo:実行" に任意のキーを付与しOKを押す。<br>
 
 （２）任意のキーを押すことでAviutl２が起動、キャプチャーしたいところで保存ボタンをクリック。<br>
 　　　（任意で保存先、解像度、拡張子、圧縮レベル、インターレース解除を設定）<br>
@@ -53,7 +54,8 @@ Aviutl２のLayerごとに動画素材を載せて保存することや<br>
 フィルタオブジェクトを載せて保存することも可能です。<br><br>
 
 動画の重ねた状態でのキャプチャー<br>
-<img width="320" height="180" alt="image_029" src="https://github.com/user-attachments/assets/3d54d421-49e9-44d8-862e-bcfb8c897f4a" />
+<img width="320" height="180" alt="まねきケチャ" src="https://github.com/user-attachments/assets/31dd1258-9309-4e5d-a09b-e152f425121e" />
+
 
 ぼかし効果　キャプチャー<br>
 <img width="320" height="180" alt="image_027" src="https://github.com/user-attachments/assets/d4822472-8f85-4567-b802-bebee1c154b7" />
