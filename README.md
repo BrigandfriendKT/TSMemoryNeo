@@ -53,7 +53,7 @@ TVtest利用されない方は手順（２）から
 Aviutl２のLayerごとに動画素材を載せて保存することや<br>
 フィルタオブジェクトを載せて保存することも可能です。<br><br>
 
-動画の重ねた状態でのキャプチャー<br>
+動画を重ねた状態でのキャプチャー<br>
 <img width="320" height="180" alt="まねきケチャ" src="https://github.com/user-attachments/assets/574a6505-0de6-4622-9820-a27b44f5190a" />
 
 ぼかし効果　キャプチャー<br>
