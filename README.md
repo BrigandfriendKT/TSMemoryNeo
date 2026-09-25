@@ -46,6 +46,11 @@ TVtest利用されない方は手順（２）から
 （２）任意のキーを押すことでAviutl２が起動、キャプチャーしたいところで保存ボタンをクリック。<br>
 　　　（任意で保存先、解像度、拡張子、圧縮レベル、インターレース解除を設定）<br>
 
+<ins>※８K放送をキャプチャーする際に画面外にはみ出ることがあります。<br>
+　その際はプレビュー画面から"メディアを画面にフィット"を選んでください。</ins>
+ <img width="445" height="298" alt="capture" src="https://github.com/user-attachments/assets/d0350ac8-1b5f-4a55-b4de-75e33ea33dad" />
+
+
 ## 使用方法（Aviutl２の場合)
 
 （１）Aviutl２に動画ファイルを任意のLayerにD&Dする。<br>
